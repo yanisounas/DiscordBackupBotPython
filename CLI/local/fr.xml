@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language code="language symbol">
+  <translation text="%R%Hello%Y%, %B%World">%R%Bonjour%Y%, %B%Monde</translation>
+</language>
